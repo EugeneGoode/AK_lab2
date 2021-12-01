@@ -1,0 +1,4 @@
+/home/eugene/Рабочий стол/lab2/CMakeFiles/rebuild_cache.dir
+/home/eugene/Рабочий стол/lab2/CMakeFiles/edit_cache.dir
+/home/eugene/Рабочий стол/lab2/CMakeFiles/calculator.dir
+/home/eugene/Рабочий стол/lab2/CMakeFiles/out.dir
