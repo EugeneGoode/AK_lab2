@@ -7,9 +7,6 @@ OBJS = main.o calculator.o mylib.a
 all: $(OBJS)
 	$(CC) main.o calculator.o -o $(OUT)
 
-# $(OUT): main.o calculator.o
-#     $(CC) $(CFLAGS) $(CLIBS) -o $(OUT) $(OBJS)
-
 main.o: src/main.cpp
 	$(CC) $(CFLAGS) src/main.cpp
 
